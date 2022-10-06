@@ -1,5 +1,5 @@
 # COVID -19 TrackerLive
-  Developed Using React ,Material UI, and Material Hooks.
+  Developed Using ReactJs ,Material UI, and Material Hooks.
 ## Available Scripts
 
 In the project directory, you can run:
